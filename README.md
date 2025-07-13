@@ -12,9 +12,11 @@ and [3].
 
 The K2 algorithm [3] can be used to learn the topology of a Bayes network [2], i.e. of finding the most
 probable belief-network structure, given a database.
-Part 1 After having studied the problem in the suggested literature ([2]-[3]), Implement the algorithm
+
+Part 1: After having studied the problem in the suggested literature ([2]-[3]), Implement the algorithm
 in R and check its performances with the test data set given in [3]: Ruiz, Asia and Child data sets.
-Part 2 Implement and test the K2 algorithm with the test data sets ([3]). Compare the results with that
+
+Part 2: Implement and test the K2 algorithm with the test data sets ([3]). Compare the results with that
 obtained with the bnstruct R library [4].
 
 # Bibliography
